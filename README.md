@@ -1,7 +1,28 @@
-## 👋 Hi, I’m @jvvinicius9
+<h1 align="center">🚀 João Vinicius • @jvvinicius9</h1>
 
-- 🌱 I’m currently learning HTML, CSS, JS and JAVA
-- 👀 I’m interested in AI
-- 💞️ I’m just starting as a developer and I'd like to train my hard and soft skills!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FACENS  
+🔍 Explorando soluções reais com tecnologia  
+📱 Em constante evolução entre **Back-End**, **Mobile** e **IA com Chatbots**
 
-- 📫 How to reach me https://www.linkedin.com/in/jo%C3%A3o-vin%C3%ADcius-siqueira-474a6716b/
+---
+
+### 🛠️ Stack atual de estudos
+
+- Java com Spring Boot (API REST + Segurança)
+- Android com Java (Android Studio + Firebase)
+- Chatbots (Botpress, NLP e IA)
+- Firebase, JWT, H2/PostgreSQL, GitHub
+
+---
+
+### 🎯 Buscando
+
+- Trabalhar com soluções reais e criativas
+- Evoluir nas áreas de **automação** e **tecnologias aplicadas ao dia a dia**
+- Contribuir com projetos que tenham propósito
+
+---
+
+### 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vinicius-siqueira/)
